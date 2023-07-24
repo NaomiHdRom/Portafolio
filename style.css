@@ -1,0 +1,71 @@
+
+body{
+
+  background-image: url(PCBBLACK.jpg);
+
+}
+
+#HeaderPerfil{background-image: url(PCBPRUEBA.jpg);
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+#HeaderPerfil h1, #HeaderPerfil p {
+  color: white;
+}
+
+#containerProyectos{
+  
+  background-color: aliceblue;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.white-text {
+  color: white;
+}
+
+#carouselExampleIndicators {
+  margin: 0 auto; /* Esto centrará el bloque horizontalmente */
+  
+}
+
+
+
+
+
+footer p{
+
+color: white;
+
+
+}
+
+header li{
+
+
+color: aliceblue;
+
+}
+
+.nav-link {
+  color: white;
+}
+
+
+
+
+.btn-aqua {
+  background-color: rgb(31, 183, 206);
+  border-color: rgb(43, 177, 201);
+}
+
+
+
+
+
+
+
