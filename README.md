@@ -19,7 +19,8 @@ También contiene una sección de almacenamiento de archivos *(imágenes)* que n
 #
 El texto de la página está escrito en español, sin embargo parte del código se encuentra en inglés
 ## DEMO
-Se puede visualizar la página dando click en el siguiente enlace: https://marvelous-cannoli-5887bc.netlify.app/
+Se puede visualizar la página dando click en el siguiente enlace:
+https://portafolionaomihdrom.netlify.app/
 
 ## Contacto
 * [Naomi Hernández](https://www.linkedin.com/in/naomi-estefan%C3%ADa-hern%C3%A1ndez-romero-30375624a) 
